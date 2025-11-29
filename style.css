@@ -256,3 +256,22 @@
     background-color: rgb(41, 41, 41);
   }
 }
+
+.img-item {
+  width: 120px;
+  height: 80px;
+}
+.img-item img {
+  object-fit: cover;
+}
+
+.bg-fame-chinh {
+  background-color: rgb(23, 23, 23);
+}
+
+.text-h-light-dark {
+  color: rgb(221, 221, 221);
+}
+.text-p-light-dark {
+  color: rgb(131, 131, 131);
+}
